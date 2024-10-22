@@ -1,8 +1,3 @@
-# fly.toml app configuration file generated for quizzzy on 2023-11-06T06:41:39Z
-#
-# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
-#
-
 app = "quizzzy"
 primary_region = "sin"
 
